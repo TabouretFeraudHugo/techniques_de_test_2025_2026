@@ -15,3 +15,12 @@ Groupe de TP : M1 Ilsen Classique
 
 Si vous avez des remarques particulières à faire sur le TP ou votre rendu vous
 pouvez les faire ici.
+
+Pour lancer les test : 
+
+"python -m pytest"
+
+Pour afficher le coverage :
+
+"coverage run -m pytest
+coverage report"
