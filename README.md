@@ -7,9 +7,9 @@ Le sujet du TP se trouve [ici](./TP/SUJET.md)
 
 Vous devez compléter cette partie pour qu'on puisse vous identifier.  
 
-Nom : Tabouret--Feraud        
-Prénom : Hugo   
-Groupe de TP : M1 Ilsen Classique  
+- Nom : Tabouret--Feraud    
+- Prénom : Hugo
+- Groupe de TP : M1 ILSEN Classique  
 
 ## Remarques particulières
 
