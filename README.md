@@ -22,5 +22,5 @@ Pour lancer les test :
 
 Pour afficher le coverage :
 
-"coverage run -m pytest
+"coverage run -m pytest \
 coverage report"
